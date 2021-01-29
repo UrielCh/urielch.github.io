@@ -10,7 +10,7 @@ Within the almost 100 projects that I converted to typescript, NONE of them had 
 
 ## There is some of my forked project
 
-### Mostly Typescript conversion
+### Mostly conversion from javascript to Typescript
 
 | Project name                                 | Description                                 |
 |----------------------------------------------|---------------------------------------------|
