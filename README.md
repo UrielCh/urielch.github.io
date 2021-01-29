@@ -10,28 +10,28 @@ Within the almost 100 projects that I converted to typescript, NONE of them had 
 
 ## There is some of my forked project
 
-### mostly Typescript conversion
+### Mostly Typescript conversion
 
-| project                                      | description                                 |
+| Project name                                 | Description                                 |
 |----------------------------------------------|---------------------------------------------|
 |[adbkit](https://github.com/UrielCh/adbkit)   | An Android-Device-Bridge wrapper for Nodejs |
 |[telephony-example-cti-dashboard](https://github.com/UrielCh/telephony-example-cti-dashboard) | a website monitor OVH-Cloud VOIP Lines |
 |[reganam](https://github.com/UrielCh/reganam) | an OVH-Cloud dashboard |
 |[node-dhcp](https://github.com/UrielCh/node-dhcp) | a pure NodeJS DHCP server |
 
-### misc change project
+### Misc change project
 
-| project                                       | description                             | change      |
-|-----------------------------------------------|-----------------------------------------|-------------|
-|[rpio-pwm](https://github.com/UrielCh/rpio-pwm)| access GPIO                             | make It works with moderne nodeJS 8+ add support for RGBW strip |
-|[robotjs](https://github.com/UrielCh/robotjs)  | emulate keyboard / mouse                | change call return to give duration in ms. |
-|[rpi-ws281x](https://github.com/UrielCh/rpi-ws281x)| control ws281x chips a raspberry pi | make It works with moderne nodeJS 8+ |
-|[commander.js](https://github.com/UrielCh/commander.js) | MERGED the famous commander.JS   | improve Typing |
-|[chromeExtensionAsync](https://github.com/UrielCh/chromeExtensionAsync)| Typing for Chrome browser | simply add some missing call tin typing|
+| Project name                                           | Description                              | change                                  |
+|--------------------------------------------------------|------------------------------------------|-----------------------------------------|
+|[rpio-pwm](https://github.com/UrielCh/rpio-pwm)         | access GPIO                              | make It works with moderne nodeJS 8+ add support for RGBW strip |
+|[robotjs](https://github.com/UrielCh/robotjs)           | emulate keyboard / mouse                 | change call return to give duration in ms. |
+|[rpi-ws281x](https://github.com/UrielCh/rpi-ws281x)     | control ws281x chips a raspberry pi      | make It works with moderne nodeJS 8+    |
+|[commander.js](https://github.com/UrielCh/commander.js) | MERGED the famous commander.JS           | improve Typing                          |
+|[chromeExtensionAsync](https://github.com/UrielCh/chromeExtensionAsync)| Typing for Chrome browser | simply add some missing call tin typing |
 
-## from scratch public projects
+## From scratch public projects
 
-| project                                                 | description                                 |
+| Project name                                            | Description                                 |
 |---------------------------------------------------------|---------------------------------------------|
 |[proxmox-api](https://github.com/UrielCh/proxmox-api)    | A super easy Api to control Proxmox server  |
 |[proxmox-api](https://github.com/UrielCh/proxmox-api)    | A super easy Api to control Proxmox server  |
@@ -57,7 +57,7 @@ Within the almost 100 projects that I converted to typescript, NONE of them had 
 
 ## Java projects from a distant past
 
-| project                                                 | description                                 |
+| Project name                                            | Description                                 |
 |---------------------------------------------------------|---------------------------------------------|
 |[json-smart-v2](https://github.com/netplex/json-smart-v2)| A JSON parser for JAVA                      |
 |[json-smart-v1](https://github.com/netplex/json-smart-v1)| A JSON parser for JAVA                      |
