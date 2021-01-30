@@ -1,12 +1,12 @@
 # My Github pages
 
-Hi, After a decade of Java developpement, being upset by the slow evolution of Java, I switch to this strange single threaded `nodeJS` for my new project. It was hard to give up years of Java experience. but I refused to give up on my strict typing habit.
+Hi, After a decade of Java developpement, I was upset by the slow evolution of Java, I switch to `nodeJS` for my new project. It was hard to give up years of Java experience.
 
-So I early adopted Typescript, that was not easy at the time, since most no projects had no typing.
+So I early adopted Typescript to keep strict typing; that was not easy at the time, because most projects had no typing.
 
-Since I convert to typescript the project I do not find with a proper typing on npm.
+Since, I convert to typescript most of the project I use if I do not find a proper typing in [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
 
-Within the almost 100 projects that I converted to typescript, NONE of them had no bug, that I found by converting them to Typescript.
+Within the almost 100 projects that I converted to typescript, 99% of them had bug reval by converting them to Typescript.
 
 ## There is some of my forked project
 
