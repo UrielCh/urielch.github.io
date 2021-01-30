@@ -10,14 +10,14 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 
 ## There is some of my forked project
 
-## personal public projects
+### Personal public projects
 
 | Project name                                                                                                 | Description                                                                             |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|[proxmox-api](https://github.com/UrielCh/proxmox-api)                                                         | A super easy Api to control Proxmox server                                              |
-|[proxmox-usb-hotplug](https://github.com/UrielCh/proxmox-api/tree/master/proxmox-usb-hotplug)                 | Allow a Proxmox server to be use as a regular PC, by adding hotplug USB devices to VM   |
+|[proxmox-api](https://github.com/UrielCh/proxmox-api)                                                         | A super easy api to control Proxmox server                                              |
+|[proxmox-usb-hotplug](https://github.com/UrielCh/proxmox-api/tree/master/proxmox-usb-hotplug)                 | Transforme a Proxmox server to a usable PC/Mac, by adding hotplug USB devices to a main VM   |
 |[zombie-plugin](https://github.com/UrielCh/zombie-plugin)                                                     | A sandbox Chrome plugin that can do mostly anything except :coffee:, (Set proxy, read QR-code on screen, run automatic test, archive cookies...) |
-|[api-ovh-node](https://github.com/UrielCh/api-ovh-node)                                                       | A massive signle repo, with OVH-Cloud API SDK                                           |
+|[api-ovh-node](https://github.com/UrielCh/api-ovh-node)                                                       | A massive signle repo, containing my OVH-Cloud API SDK                                   |
 |[ovh-bill-importer](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-bill-importer)            | Export your OVH-Cloud billing for your accounting.                                      |
 |[ovh-cleaner](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-cleaner)                        | Cleanup you OVH-Cloud Account                                                           |
 |[ovh-telephony-dump-consumption](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-delete-service)| Download OVH-Cloud current month telephony consumption                                |
