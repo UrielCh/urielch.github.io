@@ -31,8 +31,8 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[webRobotJS](https://github.com/UrielCh/webRobotJS)                                                           | controls your mouse / keyboard with http Requests                                       |
 |[yealink](https://github.com/UrielCh/yealink)                                                                 | controls your Yealink phone from you node project                                       |
 |[puppeteer-jquery](https://github.com/UrielCh/puppeteer-jquery)                                               | Use JQuery selector in your Putteter Code with the same syntax you would use a browser. |
-|[prime-js](https://github.com/UrielCh/prime-js)                                                               | Because Prime number generator on NPM are all :shit: I had to make my own               |
-|[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Your Xiaomi Bluetooth thermometer data to an Prometheus server... This one I python :expressionless: |
+|[prime-js](https://github.com/UrielCh/prime-js)                                                               | Because Prime number generator on NPM are all :shit:, I had to make my own.             |
+|[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Xiaomi Bluetooth thermometer data to an Prometheus server. This one is python :expressionless: |
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
 
 ### Forcked projects
