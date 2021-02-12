@@ -35,7 +35,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Xiaomi Bluetooth thermometer data to an Prometheus server. This one is python :expressionless: |
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
 
-### Forcked projects
+### Forked projects
 
 | Project name                                                                                 | Description                                  | change                                                               |
 |----------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------|
@@ -49,6 +49,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[adbkit](https://github.com/UrielCh/adbkit)                                                   | An Android-Device-Bridge wrapper for Nodejs  | Convert to Typescript and make it more Object Oriented               |
 |[telephony-example-cti-dashboard](https://github.com/UrielCh/telephony-example-cti-dashboard) | A website monitor OVH-Cloud VOIP Lines       | Convert to Typescript to make it more readable                       |
 |[reganam](https://github.com/UrielCh/reganam)                                                 | An OVH-Cloud dashboard                       | convert to Typsecript to plug it to my OVH-Cloud API, and test React |
+|[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                          | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            |
 
 ## Java projects from a distant past
 
