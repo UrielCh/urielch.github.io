@@ -50,7 +50,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[telephony-example-cti-dashboard](https://github.com/UrielCh/telephony-example-cti-dashboard) | A website monitor OVH-Cloud VOIP Lines       | Convert to Typescript to make it more readable                       |
 |[reganam](https://github.com/UrielCh/reganam)                                                 | An OVH-Cloud dashboard                       | convert to Typsecript to plug it to my OVH-Cloud API, and test React |
 |[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                          | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            |
-|[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                              | plugins for puppeter                         | convert to Typsecript + adding features in progress...         |
+|[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                              | plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...       |
 
 ## Java projects from a distant past
 
