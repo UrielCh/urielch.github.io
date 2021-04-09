@@ -61,3 +61,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[json-smart-v1](https://github.com/netplex/json-smart-v1)                                     | A JSON parser for JAVA                              |
 |[ovh-java-sdk](https://github.com/UrielCh/ovh-java-sdk)                                       | An API client for OVH-Cloud                         |
 |[enhanced-vnc-thumbnail-viewer](https://github.com/UrielCh/enhanced-vnc-thumbnail-viewer)     | Forcked version of a muti-VNC viewer with bug Fixed |
+
+## favorit npm libs
+
+[favorit](./favorit.md)
