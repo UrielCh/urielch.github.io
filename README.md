@@ -36,6 +36,8 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Xiaomi Bluetooth thermometer data to an Prometheus server. This one is python :expressionless: |
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
 |[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service                                           |
+|[serve4code](https://www.npmjs.com/package/serve4code)                                                        | Integrate a webcallback to a non web project                                            |
+
 
 ### Forked projects
 
