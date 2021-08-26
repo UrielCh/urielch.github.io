@@ -12,10 +12,11 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 
 ### Personal public projects
 
-| Project name                                                                                                 | Description                                                                             |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|[proxmox-api](https://github.com/UrielCh/proxmox-api)                                                         | A super easy api to control Proxmox server                                              |
-|[proxmox-usb-hotplug](https://github.com/UrielCh/proxmox-api/tree/master/proxmox-usb-hotplug)                 | Transforme a Proxmox server to a usable PC/Mac, by adding hotplug USB devices to a main VM   |
+| Project name                                                                                                 | Description                                                                                       |
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|[voicemaker-api](https://github.com/UrielCh/voicemaker)                                                       | Use TTS from nodejs project, give access to [voicemaker](https://voicemaker.in/) TTS engine.      |
+|[proxmox-api](https://github.com/UrielCh/proxmox-api)                                                         | A super easy api to control Proxmox server                                                        |
+|[proxmox-usb-hotplug](https://github.com/UrielCh/proxmox-api/tree/master/proxmox-usb-hotplug)                 | Transforme a Proxmox server to a usable PC/Mac, by adding hotplug USB devices to a main VM        |
 |[zombie-plugin](https://github.com/UrielCh/zombie-plugin)                                                     | A sandbox Chrome plugin that can do mostly anything except :coffee:, (Set proxy, read QR-code on screen, run automatic test, archive cookies...) |
 |[api-ovh-node](https://github.com/UrielCh/api-ovh-node)                                                       | A massive signle repo, containing my OVH-Cloud API SDK                                  |
 |[ovh-bill-importer](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-bill-importer)            | Export your OVH-Cloud billing for your accounting.                                      |
@@ -28,14 +29,14 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[ovh-upload-doc](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-upload-doc)                  | CLI tool to upload document to an OVH bucket                                            |
 |[ovh-vps-config-failover](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-vps-config-failover)| quickly configure OVH-Cloud Server IP-Failover                                          |
 |[node-dev-input-reader](https://github.com/UrielCh/node-dev-input-reader)                                     | Read input from /dev/input/* on a linux Host for Action triggering (I use it to switch OS on my Proxmox Desktop PCs) |
-|[webRobotJS](https://github.com/UrielCh/webRobotJS)                                                           | controls your mouse / keyboard with http Requests                                       |
-|[yealink](https://github.com/UrielCh/yealink)                                                                 | controls your Yealink phone from you node project                                       |
-|[puppeteer-jquery](https://github.com/UrielCh/puppeteer-jquery)                                               | Use JQuery selector in your Putteter Code with the same syntax you would use a browser. |
-|[playwright-jquery](https://github.com/UrielCh/playwright-jquery)                                             | Use JQuery selector in your Playwright Code with the same syntax you would use a browser. |
-|[prime-js](https://github.com/UrielCh/prime-js)                                                               | Because Prime number generator on NPM are all :shit:, I had to make my own.             |
+|[webRobotJS](https://github.com/UrielCh/webRobotJS)                                                           | controls your mouse / keyboard with http Requests                                         |
+|[yealink](https://github.com/UrielCh/yealink)                                                                 | controls your Yealink phone from you node project                                         |
+|[puppeteer-jquery](https://github.com/UrielCh/puppeteer-jquery/tree/master/puppeteer-jquery)                  | Use JQuery selector in your Putteter Code with the same syntax you would use a browser.   |
+|[playwright-jquery](https://github.com/UrielCh/puppeteer-jquery/tree/master/playwright-jquery)                | Use JQuery selector in your Playwright Code with the same syntax you would use a browser. |
+|[prime-js](https://github.com/UrielCh/prime-js)                                                               | Because Prime number generator on NPM are all :shit:, I had to make my own.               |
 |[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Xiaomi Bluetooth thermometer data to an Prometheus server. This one is python :expressionless: |
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
-|[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service                                           |
+|[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service                                             |
 
 ### Forked projects
 
