@@ -10,4 +10,4 @@
 - [ts-node](https://www.npmjs.com/package/ts-node) typescript loader
 - [otpauth](https://www.npmjs.com/package/otpauth) generate otpauth codes
 - [dayjs](https://www.npmjs.com/package/dayjs) alternative to the fat momentjs
-  
+- [pm2] (https://www.npmjs.com/package/pm2) use nodejs code as services
