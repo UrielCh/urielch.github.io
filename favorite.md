@@ -1,10 +1,10 @@
 
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
-- [chalk](https://www.npmjs.com/package/chalk)
-- [handy-redis](https://www.npmjs.com/package/handy-redis)
+- [chalk](https://www.npmjs.com/package/chalk) -> [picocolors](https://www.npmjs.com/package/chalk)
+- [handy-redis](https://www.npmjs.com/package/handy-redis) -> [ioredis](https://www.npmjs.com/package/ioredis)
 - [awesome-phonenumber](https://www.npmjs.com/package/awesome-phonenumber)
 - [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch)
-- [bluebird](https://www.npmjs.com/package/bluebird)
+- [bluebird](https://www.npmjs.com/package/bluebird) -> [p-map@4.0.0](https://www.npmjs.com/package/p-map)
 - [didyoumean2](https://www.npmjs.com/package/didyoumean2)
 - [cheerio](https://www.npmjs.com/package/cheerio) JQuery for nodeJS
 - [ts-node](https://www.npmjs.com/package/ts-node) typescript loader
