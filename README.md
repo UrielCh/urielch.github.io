@@ -71,4 +71,4 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 
 ## PGP
 
-My PGP public sign: 0x1D0690E353BE126D
+My PGP public sign: [0x1D0690E353BE126D](https://pgp.mit.edu/pks/lookup?op=get&search=0x1D0690E353BE126D)
