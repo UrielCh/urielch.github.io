@@ -67,4 +67,4 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 
 ## favorit npm libs
 
-[favorit](./favorit.md)
+[favorite](./favorit.md)
