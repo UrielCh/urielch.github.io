@@ -1,6 +1,6 @@
 
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
-- [chalk](https://www.npmjs.com/package/chalk) -> [picocolors](https://www.npmjs.com/package/chalk)
+- [chalk](https://www.npmjs.com/package/chalk) -> [picocolors](https://www.npmjs.com/package/picocolors)
 - [handy-redis](https://www.npmjs.com/package/handy-redis) -> [ioredis](https://www.npmjs.com/package/ioredis)
 - [awesome-phonenumber](https://www.npmjs.com/package/awesome-phonenumber)
 - [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch)
