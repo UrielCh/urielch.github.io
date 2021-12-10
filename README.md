@@ -41,8 +41,8 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 
 ### Forked projects
 
-| Project name                                                                            | Description                                  | change                                                               | merged |
-|-----------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------|        |
+| Project name | Description | change | merged |
+|--------------|-------------|--------|--------|
 |[rpio-pwm](https://github.com/UrielCh/rpio-pwm)                                          | Access GPIO                                  | Make It works with nodeJS 8+ add support for RGBW strip              | No     |
 |[robotjs](https://github.com/UrielCh/robotjs)                                            | Emulate keyboard / mouse                     | Change calls return to give duration in ms.                          | No     |
 |[rpi-ws281x](https://github.com/UrielCh/rpi-ws281x)                                      | Control ws281x chips a raspberry pi          | Upgrade native code to works with nodeJS 8+                          | No     |
