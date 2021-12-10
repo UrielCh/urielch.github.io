@@ -55,6 +55,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[reganam](https://github.com/UrielCh/reganam)                                                 | An OVH-Cloud dashboard                       | convert to Typsecript to plug it to my OVH-Cloud API, and test React | No     |
 |[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                          | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            | No     |
 |[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                              | plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
+|[github:UrielCh/ejs](https://github.com/UrielCh/ejs)     | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged| No   |
 
 ## Java projects from a distant past
 
