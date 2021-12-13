@@ -12,3 +12,5 @@
 - [dayjs](https://www.npmjs.com/package/dayjs) alternative to the fat momentjs
 - [pm2](https://www.npmjs.com/package/pm2) use nodejs code as services
 - [pm2-logrotate](https://www.npmjs.com/package/pm2-logrotate) never forget to enable a logrotate for pm2 services
+- [node-cache](https://www.npmjs.com/package/node-cache) cache object but throw exception on overflow, replaced by [lru-cache](https://www.npmjs.com/package/lru-cache)
+- npm + lerna replaced buy [pnpm](https://www.npmjs.com/package/pnpm)
