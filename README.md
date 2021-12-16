@@ -73,6 +73,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 | ---no name---      | Nodejs + openCV + adb + tesseract, automation script to controle multiple phones.    | internal only |
 | ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | internal only |
 | ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (need to be convert to a commecrcial offer) | internal only |
+| --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper will be release as a separated project)|
 
 ## Java projects from a distant past
 
