@@ -23,21 +23,24 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[ovh-cleaner](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-cleaner)                        | Cleanup you OVH-Cloud Account                                                           |
 |[ovh-telephony-dump-consumption](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-delete-service)| Download OVH-Cloud current month telephony consumption                                |
 |[ovh-dump-telephony](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-dump-telephony)          | Simply dump your OVH-Cloud telephony services                                           |
-|[ovh-dynhost2](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-dynhost2)                      | maintain an Dynamic Dns Host IP value, or a regular DNS entry with a 60 sec TTL         |
+|[ovh-dynhost2](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-dynhost2)                      | Maintain an Dynamic Dns Host IP value, or a regular DNS entry with a 60 sec TTL         |
 |[ovh-move-failover](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-move-failover)            | Command line utility to move your IP-Failover on OVH-Cloud server                       |
 |[ovh-telephony-events](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-telephony-events)      |Import OVH-Cloud Api Events to a queueing service (Redis) so it can be easily integrate to your system |
 |[ovh-upload-doc](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-upload-doc)                  | CLI tool to upload document to an OVH bucket                                            |
-|[ovh-vps-config-failover](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-vps-config-failover)| quickly configure OVH-Cloud Server IP-Failover                                          |
+|[ovh-vps-config-failover](https://github.com/UrielCh/api-ovh-node/tree/master/samples/ovh-vps-config-failover)| Quickly configure OVH-Cloud Server IP-Failover                                          |
 |[node-dev-input-reader](https://github.com/UrielCh/node-dev-input-reader)                                     | Read input from /dev/input/* on a linux Host for Action triggering (I use it to switch OS on my Proxmox Desktop PCs) |
-|[webRobotJS](https://github.com/UrielCh/webRobotJS)                                                           | controls your mouse / keyboard with http Requests                                         |
-|[yealink](https://github.com/UrielCh/yealink)                                                                 | controls your Yealink phone from you node project                                         |
+|[webRobotJS](https://github.com/UrielCh/webRobotJS)                                                           | Controls your mouse / keyboard with http.Requests                                         |
+|[yealink](https://github.com/UrielCh/yealink)                                                                 | Controls your Yealink phone from you node.project                                         |
 |[puppeteer-jquery](https://github.com/UrielCh/puppeteer-jquery/tree/master/puppeteer-jquery)                  | Use JQuery selector in your Putteter Code with the same syntax you would use a browser.   |
 |[playwright-jquery](https://github.com/UrielCh/puppeteer-jquery/tree/master/playwright-jquery)                | Use JQuery selector in your Playwright Code with the same syntax you would use a browser. |
-|[prime-js](https://github.com/UrielCh/prime-js)                                                               | Because Prime number generator on NPM are all :shit:, I had to make my own.               |
+|[@u4/prime](https://www.npmjs.com/package/@u4/prime)                                                          | Because Prime number generator on NPM are all :shit:, I had to make my own.               |
 |[mitemp2prometheus](https://github.com/UrielCh/mitemp2prometheus)                                             | Export Xiaomi Bluetooth thermometer data to an Prometheus server. This one is python :expressionless: |
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
-|[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service                                           |
-|[serve4code](https://www.npmjs.com/package/serve4code)                                                        | Integrate a webcallback to a non web project                                            |
+|[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service.                                           |
+|[serve4code](https://www.npmjs.com/package/serve4code)                                                        | Integrate a webcallback to a non web project.                                            |
+|[@u4/spice](https://www.npmjs.com/package/@u4/spice) | Manage hundruds of VM on multiple proxmox (No documentation yet, some generalisation needed + need to publish source code). |
+|[@u4/http-proxy](https://github.com/UrielCh/http-proxy) | An Http proxy server in typescript. |
+|[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
 
 ### Forked projects
 
@@ -56,6 +59,20 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                          | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            | No     |
 |[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                              | plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
 |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)     | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged| No   |
+|[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)   | Android Device Bridge for NodeJs  | Converted to Typescript + add features          | Yes + hard fork |
+
+## Web-Services / internal project
+
+| Project address    | Description                                             |  status  |
+|--------------------|---------------------------------------------------------|----------|
+| [track.over.ovh](https://track.over.ovh/)   | tracker build for yealink phones, make it easy to connect VOIP to a CRM | in production |
+| [visual.over.ovh](https://visual.over.ovh/) | sample interface to display your track.over.ovh event | in production |
+| [rec.over.ovh](https://rec.over.ovh/)       | API to imprort and request Ovh request | in production |
+| --- rec-viewer --- | Interface to search / listen / comment records from rec.over.ovh based on AngularJS + primeNG | Discontinue |
+| botcop.click       | Rules based fraud-click programe, working without external server, detect most fraud, generate Execl files + IPs block list | internal only |
+| ---no name---      | Nodejs + openCV + adb + tesseract, automation script to controle multiple phones.    | internal only |
+| ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | internal only |
+| ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (need to be convert to a commecrcial offer) | internal only |
 
 ## Java projects from a distant past
 
@@ -66,9 +83,9 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[ovh-java-sdk](https://github.com/UrielCh/ovh-java-sdk)                                       | An API client for OVH-Cloud                         |
 |[enhanced-vnc-thumbnail-viewer](https://github.com/UrielCh/enhanced-vnc-thumbnail-viewer)     | Forcked version of a muti-VNC viewer with bug Fixed |
 
-## favorit npm libs
+## Misc
 
-[favorite](./favorite.md)
+[daily used npm libs](./favorite.md)
 
 ## PGP
 
