@@ -1,6 +1,6 @@
 # Languages
 
-| language  | usage frequency |
+| Language  | usage frequency |
 |-----------|-----------------|
 | Shell     | 2000-current    |
 | C++       | 2003-2004       |
@@ -40,17 +40,17 @@
 
 # Backend framework
 
-| frontend      | number of project |
+| Name      | number of project |
 |---------------|------------------|
-| expressJS     | a lots |
+| ExpressJS     | a lots |
 | Fastify       | replace Express now |
-| NestJS.       | somes, for big project |
+| NestJS        | somes, for big project |
 | Laravel       |  1   |
 | Symfony       |  1   |
 
-# Front-end framework
+# Frontend framework
 
-| frontend      | number of project |
+| Name      | number of project |
 |---------------|------------------|
 | JQuery        | 10+  |
 | angular 1-1.5 |  2   |
@@ -60,10 +60,10 @@
 
 # Router
 
-| Brend         | number of site |
+| Type          | number of site |
 |---------------|-------------|
-| Dell PowerConnect| 1           |
-| Ciso catalyst 29XX | 1           |
+| Dell PowerConnect| 1        |
+| Ciso catalyst 29XX | 1      |
 | Mikrotik      | 2           |
 | Openwrt       | a lots      |
 
@@ -77,7 +77,7 @@
 
 # Firewall
 
-| type       | number of configuration   |
+| Type       | number of configuration   |
 |------------|---------------------------|
 | ipchain    | somes                     |
 | iptables   | 100+                      |
