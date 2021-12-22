@@ -52,14 +52,16 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[commander.js](https://github.com/UrielCh/commander.js)                                  | MERGED the famous commander.JS               | Improve Typing                                                       | Yes    |
 |[chromeExtensionAsync](https://github.com/UrielCh/chromeExtensionAsync)                  | Typing for Chrome browser                    | Add some missing call in typing                                      | No     |
 |[node-worker-threads-pool-ts](https://www.npmjs.com/package/node-worker-threads-pool-ts) | Use worker in threads pool                   | Add progress events / convert to typescript                          | No     |
-|[node-dhcp](https://github.com/UrielCh/node-dhcp)                                        | A pure NodeJS DHCP server                    | Convert to Typescript and rewrite most of the code                   | [on Hold](https://github.com/nodejs/node/issues/35769) |
+|[node-dhcp](https://github.com/UrielCh/node-dhcp)                                         | A pure NodeJS DHCP server                    | Convert to Typescript and rewrite most of the code                   | [on Hold](https://github.com/nodejs/node/issues/35769) |
 |[adbkit](https://github.com/UrielCh/adbkit)                                                   | An Android-Device-Bridge wrapper for Nodejs  | Convert to Typescript and make it more Object Oriented               | Yes    |
 |[telephony-example-cti-dashboard](https://github.com/UrielCh/telephony-example-cti-dashboard) | A website monitor OVH-Cloud VOIP Lines       | Convert to Typescript to make it more readable                       | Discontinued |
 |[reganam](https://github.com/UrielCh/reganam)                                                 | An OVH-Cloud dashboard                       | convert to Typsecript to plug it to my OVH-Cloud API, and test React | No     |
-|[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                          | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            | No     |
-|[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                              | plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
-|[github:UrielCh/ejs](https://github.com/UrielCh/ejs)     | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged| No   |
-|[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)   | Android Device Bridge for NodeJs  | Converted to Typescript + add features          | Yes + hard fork |
+|[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                           | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            | No     |
+|[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                               | Plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
+|[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
+|[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes + hard fork |
+|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | TODO |
+|[opencv4nodejs](https://github.com/UrielCh/opencv4nodejs)   | nodeJS Wrapper for OpenCV        | Convert project to typescript + misc WIP               | WIP  |
 
 ## Web-Services / internal project
 
