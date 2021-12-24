@@ -61,21 +61,22 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
 |[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes + hard fork |
 |[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | TODO |
-|[opencv4nodejs](https://github.com/UrielCh/opencv4nodejs)   | nodeJS Wrapper for OpenCV        | Convert project to typescript + misc WIP               | WIP  |
+|[opencv4nodejs](https://github.com/UrielCh/opencv4nodejs)   | nodeJS Wrapper for OpenCV        | Convert project to typescript + misc WIP         | WIP  |
 
 ## Web-Services / internal project
 
-| Project address    | Description                                             |  status  |
-|--------------------|---------------------------------------------------------|----------|
-| [track.over.ovh](https://track.over.ovh/)   | tracker build for yealink phones, make it easy to connect VOIP to a CRM | in production |
-| [visual.over.ovh](https://visual.over.ovh/) | sample interface to display your track.over.ovh event | in production |
-| [rec.over.ovh](https://rec.over.ovh/)       | API to imprort and request Ovh request | in production |
-| --- rec-viewer --- | Interface to search / listen / comment records from rec.over.ovh based on AngularJS + primeNG | Discontinue |
-| botcop.click       | Rules based fraud-click programe, working without external server, detect most fraud, generate Execl files + IPs block list | internal only |
-| ---no name---      | Nodejs + openCV + adb + tesseract, automation script to controle multiple phones.    | internal only |
-| ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | internal only |
-| ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (need to be convert to a commecrcial offer) | internal only |
-| --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper will be release as a separated project)|
+| Project address    | Description                                             | stack |  status  |
+|--------------------|---------------------------------------------------------|----|----------|
+| [track.over.ovh](https://track.over.ovh/)   | tracker build for yealink phones, make it easy to connect VOIP to a CRM | TS / nestJS / Redis / mongoDB | in production |
+| visual V2 | interface to display VOIP activity based on network captered IP data                                          | TS / express / redis / bitbucket | retired |
+| [visual.over.ovh V3](https://visual.over.ovh/) | sample interface to display your track.over.ovh event                    | TS / vuejs 3                | in production |
+| [rec.over.ovh](https://rec.over.ovh/)       | API to imprort and request Ovh request                                      | TS / nestJS / mongoDB / ejs | in production |
+| --- rec-viewer --- | Interface to search / listen / comment records from rec.over.ovh                                     | Angular 5 / primeNG         | Discontinue |
+| botcop.click       | Rules based fraud-click programe, working without external server, detect most fraud, generate Execl files + IPs block list | TS   | internal only |
+| ---no name---      | Nodejs automation script to controle multiple phones.                                                | TS / levelDB / openCV / adb / tesseract | internal only |
+| ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | TS / fastify / jQuery / Bootstrap  | internal only |
+| ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (to be convert for pupic usage) | TS / iptables / dnsmasq / bash | internal only |
+| --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper ...)                         | TS / express / jQuery / Bootstrap       | to publish |
 
 ## Java projects from a distant past
 
