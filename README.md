@@ -41,6 +41,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[@u4/spice](https://www.npmjs.com/package/@u4/spice) | Manage hundruds of VM on multiple proxmox (No documentation yet, some generalisation needed + need to publish source code). |
 |[@u4/http-proxy](https://github.com/UrielCh/http-proxy) | An Http proxy server in typescript. |
 |[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
+|[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
 
 ### Forked projects
 
@@ -60,23 +61,30 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                               | Plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
 |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
 |[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes + hard fork |
-|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | TODO |
-|[opencv4nodejs](https://github.com/UrielCh/opencv4nodejs)   | nodeJS Wrapper for OpenCV        | Convert project to typescript + misc WIP         | WIP  |
+|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | Can not contact author, hard fork |
+|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | Convert project to typescript + extend project  | Can not contact author, hard fork |
 
 ## Web-Services / internal project
 
 | Project address    | Description                                             | stack |  status  |
 |--------------------|---------------------------------------------------------|----|----------|
 | [track.over.ovh](https://track.over.ovh/)   | tracker build for yealink phones, make it easy to connect VOIP to a CRM | TS / nestJS / Redis / mongoDB | in production |
-| visual V2 | interface to display VOIP activity based on network captered IP data                                          | TS / express / redis / bitbucket | retired |
-| [visual.over.ovh V3](https://visual.over.ovh/) | sample interface to display your track.over.ovh event                    | TS / vuejs 3                | in production |
-| [rec.over.ovh](https://rec.over.ovh/)       | API to imprort and request Ovh request                                      | TS / nestJS / mongoDB / ejs | in production |
-| --- rec-viewer --- | Interface to search / listen / comment records from rec.over.ovh                                     | Angular 5 / primeNG         | Discontinue |
+| gophone     | Capture an push IP captured data to a REDIS stream                                                          | GOlang | retired |
+| dootab      | kiosk mode for android with content sync, for restaurant usage                                              | Android / Java | retired |
+| visual V1          | interface to display VOIP activity based on network captered IP data                                 | JS / AngularJs 1.3 / Bootstrap / JQuery | retired |
+| rec.over.ovh V1    | REST API collect OVH VOIP events                                                                     | Java / Kafka / Mysql / pcap        | retired |
+| visual V2          | interface to display VOIP activity based on network captered IP data                                 | TS / express / redis / bitbucket   | retired |
+| rec.over.ovh v2    | REST API collect OVH VOIP events                                                                     | TS / express / mongoDB / handlebars| retired |
+| [visual.over.ovh V3](https://visual.over.ovh/) | sample interface to display your track.over.ovh event                    | TS / vuejs 3 / tailwindCSs         | in production |
+| [rec.over.ovh v3](https://rec.over.ovh/)       | API to imprort and request Ovh request                                   | TS / nestJS / mongoDB / ejs | in production |
+| --- rec-viewer --- | Interface to search / listen / comment records from rec.over.ovh                                     | Angular 5 / primeNG / bitbucket | deprecated |
 | botcop.click       | Rules based fraud-click programe, working without external server, detect most fraud, generate Execl files + IPs block list | TS   | internal only |
-| ---no name---      | Nodejs automation script to controle multiple phones.                                                | TS / levelDB / openCV / adb / tesseract | internal only |
+| ---no name---      | Nodejs automation script to controle multiple phones.                                                                      | TS / levelDB / openCV / adb / tesseract | internal only |
 | ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | TS / fastify / jQuery / Bootstrap  | internal only |
 | ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (to be convert for pupic usage) | TS / iptables / dnsmasq / bash | internal only |
-| --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper ...)                         | TS / express / jQuery / Bootstrap       | to publish |
+| --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper ...)                         | TS / express / jQuery / Bootstrap | to publish |
+|  playImap     | recices and recognize voice mail and push message in base for further usage                                                     | TS / Google cloud / ffmpeg    | deprecated |
+|  code-reader  | recices and recognize code send to your phone when you do not have you phone                                                    | TS / Google cloud / ffmpeg    | in production |
 
 ## Java projects from a distant past
 
