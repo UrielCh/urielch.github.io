@@ -83,8 +83,9 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 | ---dyn-proxy---    | Smart whitelist based http-proxy used to secure office intranet (need need to be convert to public service) | TS / fastify / jQuery / Bootstrap  | internal only |
 | ---workspaces---   | Proxmox + RDP + raspberry pi + dyn-proxy + PXE low cost highly secure office environnement (to be convert for pupic usage) | TS / iptables / dnsmasq / bash | internal only |
 | --u4-dhcp-office-- | Nodejs bundle httpproxy + dhcpserver + backoffice + iptables + ip route (iptables / ip helper ...)                         | TS / express / jQuery / Bootstrap | to publish |
-|  playImap     | recices and recognize voice mail and push message in base for further usage                                                     | TS / Google cloud / ffmpeg    | deprecated |
-|  code-reader  | recices and recognize code send to your phone when you do not have you phone                                                    | TS / Google cloud / ffmpeg    | in production |
+|  playImap     | receives and recognize voice mail and push message in base for further usage                                                    | TS / Google cloud / ffmpeg    | deprecated |
+|  code-reader  | receives and recognize code send to your phone when you do not have you phone                                                   | TS / Google cloud / ffmpeg    | in production |
+|  tel-rotate   | monitor callcenter incomming call, and change lines configuration depending on call volume, can also change public number on website | TS / voicemaker-api      | in production |
 
 ## Java projects from a distant past
 
