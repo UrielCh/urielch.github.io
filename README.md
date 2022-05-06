@@ -61,8 +61,9 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                               | Plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
 |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
 |[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes + hard fork |
-|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | Can not contact author, hard fork |
-|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | Convert project to typescript + extend project  | Can not contact author, hard fork |
+|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | official fork :+1: |
+|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV    | Convert project to typescript + extend project  | official fork :+1: |
+|[@u4/beamcoder](https://github.com/UrielCh/beamcoder)   | nodejs Wrapper for ffmpeg lib          | Converted to typescript   |  inProgress |
 
 ## Web-Services / internal project
 
