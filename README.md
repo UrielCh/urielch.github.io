@@ -43,6 +43,16 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
 |[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
 
+### Divergent Forked projects
+Those project contains to much change to be merged.
+
+| Project name | Description | change |
+|--------------|-------------|--------|
+|[adbkit](https://urielch.github.io/adbkit/)                                          | An Android-Device-Bridge wrapper for Nodejs  | add lots of third party features |
+|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | official version :+1: |
+|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | official version :+1: |
+|[@u4/chrome-remote-interface](https://github.com/UrielCh/chrome-remote-interface)   | client for chrome-remote-interface    | Converted to deno mostly rewrited |
+
 ### Forked projects
 
 | Project name | Description | change | merged |
@@ -52,7 +62,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[rpi-ws281x](https://github.com/UrielCh/rpi-ws281x)                                      | Control ws281x chips a raspberry pi          | Upgrade native code to works with nodeJS 8+                          | No     |
 |[commander.js](https://github.com/UrielCh/commander.js)                                  | MERGED the famous commander.JS               | Improve Typing                                                       | Yes    |
 |[chromeExtensionAsync](https://github.com/UrielCh/chromeExtensionAsync)                  | Typing for Chrome browser                    | Add some missing call in typing                                      | No     |
-|[node-worker-threads-pool-ts](https://www.npmjs.com/package/node-worker-threads-pool-ts) | Use worker in threads pool                   | Add progress events / convert to typescript                          | No     |
+|[node-worker-threads-pool-ts](https://www.npmjs.com/package/node-worker-threads-pool-ts) | Use worker in threads pool                   | Add progress events / convert to typescript / support typescritp worker | No     |
 |[node-dhcp](https://github.com/UrielCh/node-dhcp)                                         | A pure NodeJS DHCP server                    | Convert to Typescript and rewrite most of the code                   | [on Hold](https://github.com/nodejs/node/issues/35769) |
 |[adbkit](https://github.com/UrielCh/adbkit)                                                   | An Android-Device-Bridge wrapper for Nodejs  | Convert to Typescript and make it more Object Oriented               | Yes    |
 |[telephony-example-cti-dashboard](https://github.com/UrielCh/telephony-example-cti-dashboard) | A website monitor OVH-Cloud VOIP Lines       | Convert to Typescript to make it more readable                       | Discontinued |
@@ -60,10 +70,9 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[alpine-ts](https://www.npmjs.com/package/alpine-ts)                                           | An apache log parser                         | convert to Typsecript + reduce bundle size + add features            | No     |
 |[puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)                               | Plugins for puppeter                         | convert to Typsecript + adding features, PRs in progress...          | inProgress |
 |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
-|[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes + hard fork |
-|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | Enforce Typescript code, + big changes      | official fork :+1: |
-|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV    | Convert project to typescript + extend project  | official fork :+1: |
-|[@u4/beamcoder](https://github.com/UrielCh/beamcoder)   | nodejs Wrapper for ffmpeg lib          | Converted to typescript   |  inProgress |
+|[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes |
+|[@u4/beamcoder](https://github.com/UrielCh/beamcoder)   | nodejs Wrapper for ffmpeg lib          | Converted to typescript   | segfault on large stream. |
+
 
 ## Web-Services / internal project
 
