@@ -38,10 +38,12 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[FtpArchiveCleaner](https://github.com/UrielCh/FtpArchiveCleaner/blob/master/index.js)                        | A simple FTP Archive cleaner to respond to "I want to Keep a X Backup a week, Y backup a month, Z backup a Year." that should be use as a job interview question |
 |[mirror-selector](https://github.com/UrielCh/mirror-selector)                                                 | Lib to find the best link to access a service.                                           |
 |[serve4code](https://www.npmjs.com/package/serve4code)                                                        | Integrate a webcallback to a non web project.                                            |
-|[@u4/spice](https://www.npmjs.com/package/@u4/spice) | Manage hundruds of VM on multiple proxmox (No documentation yet, some generalisation needed + need to publish source code). |
-|[@u4/http-proxy](https://github.com/UrielCh/http-proxy) | An Http proxy server in typescript. |
+|[@u4/spice](https://www.npmjs.com/package/@u4/spice)     | Manage hundruds of VM on multiple proxmox (No documentation yet, some generalisation needed + need to publish source code). |
+|[@u4/http-proxy](https://github.com/UrielCh/http-proxy)  | An Http proxy server in typescript. |
 |[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
 |[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
+|[cdp-reverter](https://www.npmjs.com/package/cdp-reverter)    |  Generate Chrome DevTools Protocol Session code from a listen-to session. |
+
 
 ### Divergent Forked projects
 Those project contains to much change to be merged.
@@ -51,7 +53,7 @@ Those project contains to much change to be merged.
 |[adbkit](https://urielch.github.io/adbkit/)                                          | An Android-Device-Bridge wrapper for Nodejs  | add lots of third party features |
 |[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | official version :+1: |
 |[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | official version :+1: |
-|[@u4/chrome-remote-interface](https://github.com/UrielCh/chrome-remote-interface)   | client for chrome-remote-interface    | Converted to deno mostly rewrited |
+|[@u4/chrome-remote-interface](https://github.com/UrielCh/ChromeDevToolsProtocol)   | client for chrome-remote-interface    | Converted to deno mostly rewrited |
 
 ### Forked projects
 
