@@ -43,6 +43,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
 |[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
 |[cdp-reverter](https://www.npmjs.com/package/cdp-reverter)    |  Generate Chrome DevTools Protocol Session code from a listen-to session. |
+|[remote-droid](https://hub.docker.com/r/urielch/remote-droid) |  Share your remote device via an HTTP REST API  |
 
 
 ### Divergent Forked projects
