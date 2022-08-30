@@ -44,7 +44,7 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 |[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
 |[cdp-reverter](https://www.npmjs.com/package/cdp-reverter)    |  Generate Chrome DevTools Protocol Session code from a listen-to session. |
 |[remote-droid](https://hub.docker.com/r/urielch/remote-droid) |  Share your remote device via an HTTP REST API  |
-
+|[dyn-ingress](https://hub.docker.com/repository/docker/urielch/dyn-ingress) |  Maintain Ingress and Services to each Pod in a Deployement, DaemonSet, StateFulset|
 
 ### Divergent Forked projects
 Those project contains to much change to be merged.
