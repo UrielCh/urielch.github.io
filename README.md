@@ -75,6 +75,7 @@ Those project contains to much change to be merged.
 | Templating |[github:UrielCh/ejs](https://github.com/UrielCh/ejs)       | Embedded JavaScript templates     | Add i18n feature keeping ejs file size unchanged | No   |
 | Automation |[@u4/adbkit](https://www.npmjs.com/package/@u4/adbkit)     | Android Device Bridge for NodeJs  | Converted to Typescript + add features           | Yes |
 | Video Processing |[@u4/beamcoder](https://github.com/UrielCh/beamcoder)   | nodejs Wrapper for ffmpeg lib          | Converted to typescript   | segfault on large stream. |
+| Deno | [node_deno_shims](https://github.com/denoland/node_deno_shims) | Deno shims for Node.js      | add napping  | Yes |
 
 
 ## Web-Services / internal project
