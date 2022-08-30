@@ -42,9 +42,12 @@ Within the almost 100 projects that I converted to typescript, 99% of them had b
 | SysOps |[@u4/http-proxy](https://github.com/UrielCh/http-proxy)  | An Http proxy server in typescript. |
 | NodeJS |[@u4/tinyrequest](https://www.npmjs.com/package/@u4/tinyrequest) | Tiny Http Request Helper for nodejs, to build small webpacked js script 300Ko smaller that common packages. |
 | VPN |[wireguard key manager](https://github.com/UrielCh/wireguard) | Bash script to create and manage wireguard keys |
+| UX | [gamepad-ts](https://www.npmjs.com/package/gamepad-ts) | Access gamepad from Nodejs + intermap different Pad brand |
 | Automation |[cdp-reverter](https://www.npmjs.com/package/cdp-reverter)    |  Generate Chrome DevTools Protocol Session code from a listen-to session. |
 | Automation |[remote-droid](https://hub.docker.com/r/urielch/remote-droid) |  Share your remote device via an HTTP REST API  |
 | Kubernetes |[dyn-ingress](https://hub.docker.com/repository/docker/urielch/dyn-ingress) |  Maintain Ingress and Services to each Pod in a Deployement, DaemonSet, StateFulset|
+
+
 
 ### Divergent Forked projects
 Those project contains to much change to be merged.
@@ -55,6 +58,9 @@ Those project contains to much change to be merged.
 |[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | official version :+1: |
 |[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | official version :+1: |
 |[@u4/chrome-remote-interface](https://github.com/UrielCh/ChromeDevToolsProtocol)   | client for chrome-remote-interface    | Converted to deno mostly rewrited |
+
+
+
 
 ### Forked projects
 
