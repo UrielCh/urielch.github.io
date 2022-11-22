@@ -55,8 +55,8 @@ Those project contains to much change to be merged.
 | Project name | Description | change |
 |--------------|-------------|--------|
 |[adbkit](https://urielch.github.io/adbkit/)                                          | An Android-Device-Bridge wrapper for Nodejs  | add lots of third party features |
-|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | official version :+1: |
-|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | official version :+1: |
+|[@u4/opencv-build](https://www.npmjs.com/package/@u4/opencv-build) | opencv build helper for NodeJs | ported to typescript, now the official version :+1: |
+|[@u4/opencv4nodejs](https://www.npmjs.com/package/@u4/opencv4nodejs)| nodeJS Wrapper for OpenCV     | ported to typescript, now the official version :+1: |
 |[@u4/chrome-remote-interface](https://github.com/UrielCh/ChromeDevToolsProtocol)   | client for chrome-remote-interface    | Converted to deno mostly rewrited |
 
 
